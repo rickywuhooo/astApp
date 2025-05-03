@@ -1,0 +1,12 @@
+# build directories
+/bin/
+/obj/
+
+# temporary files
+*.log
+*.tmp
+
+# IDE files
+.vscode/
+*.user
+*.suo
